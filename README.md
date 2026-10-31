@@ -164,7 +164,7 @@ Como las zonas de mayor severidad coinciden con terrenos de mayor pérdida poten
 
 En todas las clases el cambio en la zona quemada supera al de la no quemada, por lo que el efecto no se explica solo por el relieve. La diferencia se concentra en los terrenos más susceptibles: en la clase Muy grave, que reúne el 41 % de la superficie quemada, la pérdida bajó de 64,3 a 6,2 ton/ha/año en lo quemado y subió de 5,4 a 9,7 en lo no quemado. En 2026, dentro de una misma clase, la zona quemada pierde igual o menos que la no quemada, lo que sugiere una cobertura densa, probablemente plantaciones replantadas o regeneradas después del incendio (Figura 3).
 
-![Figura 3. Pérdida de suelo estimada: potencial CIREN, 2018 y 2026](figuras/fig3_perdida_2018_2026.png)
+![Figura 3. Pérdida de suelo estimada: potencial CIREN, 2018 y 2026](figuras/fig3_perdida.png)
 
 ### 3.5 Umbrales de tolerancia
 

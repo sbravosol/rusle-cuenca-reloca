@@ -109,7 +109,7 @@ El 51,4 % de la cuenca se clasifica como Grave o Muy grave (> 100 ton/ha/año) b
 | — | No suelos | 1 031,4 | 2,4 |
 | | **Total** | **42 988,1** | **100,0** |
 
-![Figura 1. Pérdida potencial de suelo en la cuenca del río Reloca (CIREN, 2024)](figuras/fig1_potencial.png)
+![Figura 1. Pérdida potencial de suelo en la cuenca del río Reloca (CIREN, 2024)](figuras/fig2_severidad.png)
 
 ### 3.2 Zona quemada y severidad
 
@@ -124,7 +124,7 @@ Según el dNBR, 27 551 ha (64,3 %) presentaron señal de quemado; MODIS registr�
 | Moderada | 11 483 | 26,8 |
 | Alta | 6 122 | 14,3 |
 
-![Figura 2. Severidad del incendio Las Máquinas en la cuenca del río Reloca (dNBR)](figuras/fig2_severidad.png)
+![Figura 2. Severidad del incendio Las Máquinas en la cuenca del río Reloca (dNBR)](figuras/fig1_potencial.png)
 
 ### 3.3 Factor C en 2018 y 2026
 
